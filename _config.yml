@@ -1,14 +1,25 @@
-layout_spectrum: 0.7000605
-typography_spectrum: 0.9898688
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.8966483
-  lightness: 0.7784286
+  saturation: 0.2626208
   brandStrength: 0.800812
-  rhythmicContrast: 0.7011256
+  lightness: 1
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#231F20'
+    - '#C8C7C7'
+    - '#918F90'
+  rhythmicContrast: 0.6439313
+typography_spectrum: 0.434479
+layout_spectrum: 0.3464017
 name: serifsandsans
