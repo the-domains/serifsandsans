@@ -4,22 +4,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.434479
+typography_spectrum: 0.1680988
 color:
   saturation: 0
   brandStrength: 0.800812
-  lightness: 1
+  rhythmicContrast: 0.6439313
   brandColors:
     - '#FFFFFF'
     - '#231F20'
     - '#C8C7C7'
     - '#918F90'
-  rhythmicContrast: 0.6439313
+  lightness: 1
 layout_spectrum: 0.3464017
 name: serifsandsans
