@@ -1,40 +1,40 @@
-name: serifsandsans
-favicon: null
-layout_spectrum: 0.5923738
-typography_spectrum: 0.1680988
+title: Ifs+Sans
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Ifs+Sans
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0
+  brandStrength: 0.7814178
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#222222'
     - '#595959'
     - '#909090'
-  brandStrength: 0.7814178
-  lightness: 1
-  saturation: 0
   rhythmicContrast: 0.6439313
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: serifsandsans
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1680988
+layout_spectrum: 0.5923738
